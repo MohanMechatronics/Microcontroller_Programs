@@ -1,4 +1,4 @@
-/*
+// /*
 void setup(void) {
   Serial.begin(115200);
   Serial.println("-----------------");
@@ -13,9 +13,9 @@ void loop() {
   delay(10000);  
 }
 
-*/
+// */
 
-// /*
+/*
 // #include "WiFi.h"
 #include <ESP8266WiFi.h>
 void setup() {
